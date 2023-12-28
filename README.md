@@ -7,7 +7,7 @@ Welcome to our React.js-based food ordering app! This application provides a sea
 ![Screenshot 2023-12-28 225256](https://github.com/Alphawolf-hue/REACT-MEALS/assets/133038237/ae61e046-ff85-4875-af67-d74cbbda107e)
 ![Screenshot 2023-12-28 225545](https://github.com/Alphawolf-hue/REACT-MEALS/assets/133038237/a7faabe7-0f00-4b30-9249-508bd835c6dd)
 
-# Features
+# Features:
 User Authentication:
 Allow users to sign up, log in, and securely manage their profiles.
 
@@ -24,7 +24,7 @@ Ensure the app is responsive and accessible on various devices, providing a seam
 Firebase Integration:
 Use Firebase for real-time database functionality, authentication, and hosting.
 
-# Technologies Used
+# Technologies Used:
 React.js: The app is built using React.js for a dynamic and responsive user interface.
 HTML/CSS: Core structure and styling are implemented using HTML and CSS.
 JavaScript: Enhance interactivity and user experience with JavaScript.
@@ -49,7 +49,7 @@ Firebase Realtime Database simplifies data storage, retrieval, and synchronizati
 Cost-Effectiveness:
 Firebase offers a cost-effective solution, especially for startups and small to medium-sized applications, as it provides serverless infrastructure.
 
-#Problems Faced During Creation:
+# Problems Faced During Creation:
 Firebase Security Rules:
 Configuring Firebase security rules appropriately to ensure that only authorized users can access and modify certain data.
 
