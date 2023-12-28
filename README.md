@@ -2,6 +2,7 @@ Food Ordering App with React.js and Firebase
 Welcome to our React.js-based food ordering app! This application provides a seamless experience for users to browse a dynamic menu, add items to their cart, and place orders securely. Firebase is used for real-time database functionality and authentication.
 # First Shots of the app:
 ![Screenshot 2023-12-28 225225](https://github.com/Alphawolf-hue/REACT-MEALS/assets/133038237/d1fafab6-74a2-412a-9e7e-8ee26ae69b37)
+![Screenshot 2023-12-28 225530](https://github.com/Alphawolf-hue/REACT-MEALS/assets/133038237/d0b74dd2-5c31-4675-9e70-a0662900fa76)
 
 # Features
 User Authentication:
