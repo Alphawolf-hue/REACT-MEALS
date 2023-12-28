@@ -88,9 +88,6 @@ Enhance the menu with detailed allergen and dietary information to accommodate u
 Offline Mode:
 Implement an offline mode, allowing users to browse menus and place orders even when they have limited or no internet connectivity.
 
-Social Media Integration:
-Allow users to share their orders, reviews, and favorite items on social media platforms, enhancing the app's visibility and user engagement.
-
 Internationalization and Localization:
 Expand the app's reach by supporting multiple languages and currencies, making it accessible to a global audience.
 
